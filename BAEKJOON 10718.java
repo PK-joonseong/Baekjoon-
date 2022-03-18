@@ -1,3 +1,4 @@
+// 강한친구 대한육군 한줄 씩 출력하기.
 // source code
 public class Main { 
     public static void main(String[] args) {
