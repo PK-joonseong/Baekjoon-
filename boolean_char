@@ -1,0 +1,19 @@
+// 문자형 논리형 문제
+// source code
+public class Main {
+
+	public static void main(String[] args) {
+	boolean b;
+	char ch;
+	
+	ch = '가';
+	System.out.println("ch = " + ch);
+	
+	b = true;
+	System.out.println("b : " + b);
+	b = (10 > 1000);
+	System.out.println("b : " + b);
+
+	}
+
+}
